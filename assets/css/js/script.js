@@ -56,12 +56,12 @@ var quizQuestions = [{
     choiceD: "On computer restart",
     correctAnswer: "a"},  
     {
-    question: "What does WWW stand for?",
-    choiceA: "Web World Workings",
-    choiceB: "Weak Winter Wind",
-    choiceC: "World Wide Web",
-    choiceD: "Wendy Wants Waffles",
-    correctAnswer: "c"},
+    question: "Arrays in javascript can be used to store:",
+    choiceA: "number and strings",
+    choiceB: "other arrays",
+    choiceC: "booleans",
+    choiceD: "all of the above",
+    correctAnswer: "d"},
     {
     question: "What HTML attribute references an external JavaScript file?",
     choiceA: "href",
